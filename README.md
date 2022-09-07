@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![HelloWorldPrework](https://user-images.githubusercontent.com/71915358/188915229-45737296-1603-4d88-ba0d-0634079a6b06.gif)
+<img src='HelloWorldPrework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Cloud Convert](https://cloudconvert.com/)
 
