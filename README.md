@@ -2,7 +2,7 @@
 
 Submitted by: **Ritika Suresh**
 
-**HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**HelloWorld** is an Android app using Kotlin that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: **1** hours spent in total
 
